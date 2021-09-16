@@ -8,7 +8,7 @@ Footer.propTypes = {
 function Footer(props) {
     return (
         <div>
-            Footer
+            Footer nè
         </div>
     );
 }
